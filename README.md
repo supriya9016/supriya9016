@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Status
 
-![Supriya's GitHub status](https://github-readme-status.vercel.app/api?username=supriya9016&show_icons=true&theme=tokyonight)
+[![Supriya's GitHub status](https://github-readme-stats.vercel.app/api?username=supriyakumari04&show_icons=true)](https://github.com/supriyakumari04)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya9016&layout=compact&theme=tokyonight)
  
 
