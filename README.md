@@ -23,7 +23,7 @@
 - **Cloud & Tools:** Azure, Docker, Firebase, Git, GitHub, Vercel, Netlify  
 - **Other Skills:** Machine Learning, NLP, DSA, OS, DBMS, Linux  
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 ![Supriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=supriya9016&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya9016&layout=compact&theme=tokyonight)  
 
