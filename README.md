@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Supriya Kumari  
 
-<!--
-**supriya9016/supriya9016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Engineer | Full-Stack Developer | Open Source Contributor**  
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🎓 B.Tech in Computer Engineering @ Silicon Institute of Technology, Bhubaneswar (2022–2026)  
+- 🔭 Currently exploring **backend Development & AI-powered Applications**  
+- 🌱 Learning **DSA, NLP & System Design**  
+- 👯 Open to collaborate on **Full-Stack, AI/ML & Open Source Projects**  
+- ⚡ Fun fact: I once ranked **Top 50 Nationwide** in the Indian Mathematics Olympiad 😃  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🤝 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/supriya_0916/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-kumari-1b76a3225/)
+
+
+### 🛠️ Tech Stack
+- **Languages:** Java, Python, JavaScript, TypeScript, SQL  
+- **Frontend:** React.js, Next.js, Redux, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express.js, GraphQL, REST APIs  
+- **Databases:** MongoDB, MySQL, PostgreSQL, Redis  
+- **Cloud & Tools:** Azure, Docker, Firebase, Git, GitHub, Vercel, Netlify  
+- **Other Skills:** Machine Learning, NLP, DSA, OS, DBMS, Linux  
+
+### 📊 GitHub Stats
+![Supriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=supriya9016&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya9016&layout=compact&theme=tokyonight)  
+
+### ✍️ Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
