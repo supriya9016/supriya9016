@@ -9,7 +9,6 @@
 - 👯 Open to collaborate on **Full-Stack, AI/ML & Open Source Projects**  
 - ⚡ Fun fact: I once ranked **Top 50 Nationwide** in the Indian Mathematics Olympiad 😃  
 
----
 ### 🤝 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/supriya_0916/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-kumari-1b76a3225/)
