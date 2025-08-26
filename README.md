@@ -23,8 +23,10 @@
 - **Other Skills:** Machine Learning, NLP, DSA, OS, DBMS, Linux  
 
 ### 📊 GitHub Status
-![Supriya's GitHub stats](https://github-readme-status.vercel.app/api?username=supriya9016&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=supriya9016&layout=compact&theme=tokyonight)  
+
+![Supriya's GitHub status](https://github-readme-status.vercel.app/api?username=supriya9016&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya9016&layout=compact&theme=tokyonight)
+ 
 
 ### ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
